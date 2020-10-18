@@ -11,7 +11,8 @@ IPython
 
 plotnine
 
-You can also skip this step completely by using the Google Colab file:
+You can also skip this step completely by running it in Google Colab:
+https://colab.research.google.com/drive/1OL56HyJW-OnPl4EFJS-Z_28k2kq-vJ9Y?usp=sharing
 
 # Usage
 Usage is simple. First you need to run the first and second cells, so it loads the modules and displays a dropdown from where you can select your ticker.
