@@ -18,4 +18,5 @@ https://colab.research.google.com/drive/1OL56HyJW-OnPl4EFJS-Z_28k2kq-vJ9Y?usp=sh
 Usage is simple. First you need to run the first and second cells, so it loads the modules and displays a dropdown from where you can select your ticker.
 
 Lastly, after you've selected your ticker, you only need to run the last cell and it will automatically plot a line plot. X axis is days ago, while the Y axis is the price itself.
-I plan on adding more charts containing more info to this notebook in the future. 
+
+I plan on adding more charts containing more info to this notebook in the future. Please let me know if there's anything cool you'd like to see here!
