@@ -4,8 +4,11 @@ This is an IPython Notebook which will enable you to see the pricing changes, in
 To run this script locally, you'll need to install the following modules:
 
 ipywidgets
+
 pandas
+
 IPython
+
 plotnine
 
 You can also skip this step completely by using the Google Colab file:
