@@ -1,5 +1,8 @@
 # LiveTickerPlotter
 This is an IPython Notebook which will enable you to see the pricing changes, in the last 20 days, of any ticker supported by the IEX API. Currently, there's 9152 tickers you can choose from.
+
+It includes a function that lets you change the y-axis of the chart to any value you want (default is closing price), and you can change the ticker list by supplying a different csv path.
+
 # Requirements
 To run this script locally, you'll need to install the following modules:
 
