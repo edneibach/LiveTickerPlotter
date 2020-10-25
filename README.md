@@ -14,6 +14,12 @@ IPython
 
 plotnine
 
+You can run this on the commandline (if you have pip installed) to install the dependencies:
+
+# pip install requirements.txt
+
+(provided that you're in the same folder as requirements.txt - Else you can do pip install {packagename} for each of the 4 packages listed above)
+
 You can also skip this step completely by running it in Google Colab:
 https://colab.research.google.com/drive/1OL56HyJW-OnPl4EFJS-Z_28k2kq-vJ9Y?usp=sharing
 
